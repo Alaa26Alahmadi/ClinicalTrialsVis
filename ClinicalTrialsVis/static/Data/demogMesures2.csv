@@ -1,0 +1,17 @@
+State,Breast_Pfizer_2006_111,Breast_Pfizer_2006_112,Breast_Pfizer_2007_113,Breast_Celgene_2001_107,Breast_AmgenI_2006_122
+Age in Years,1,1,1,1,1
+Study Day of Visit/Collection,1,1,1,1,0
+CPE Name,1,1,1,0,0
+Height in cm,1,1,1,0,0
+PID,1,1,1,1,1
+PROTOCOL ID,1,1,1,1,1
+Text For Other Race,1,1,1,0,0
+Race,1,1,1,1,1
+Sex,1,1,1,1,1
+Weight in Kg,1,1,1,0,0
+Childbearing potential,0,0,0,1,0
+Study Site Identifier,0,0,0,1,1
+Within Study Site Identifier,0,0,0,0,1
+Geographic Region,0,0,0,0,1
+Geographic Region Code,0,0,0,0,1 
+Actual Treatment,0,0,0,0,1

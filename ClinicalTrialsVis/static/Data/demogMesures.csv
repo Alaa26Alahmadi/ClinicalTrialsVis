@@ -1,0 +1,6 @@
+State,Age at Enrollment in Years,Actual Study Day of Visit/Collection/Exam,CPE Name,Height in cm,PID,PROTOCOL ID,Race,Text For Other Race, Sex,Weight in Kg,Childbearing potential,Study Site Identifier,Within Study Site Identifier,Geographic Region,Geographic Region Code,Actual Treatment
+Breast_Pfizer_2006_111,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Breast_Pfizer_2006_112,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Breast_Pfizer_2007_113,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Breast_Celgene_2001_107,1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,1
+Breast_AmgenI_2006_122,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,1
